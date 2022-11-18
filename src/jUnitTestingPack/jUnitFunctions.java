@@ -6,7 +6,7 @@ public class jUnitFunctions {
 	}
 	
 	public String addStrings(String a, String b) {
-		// error on purpose in the code, as requested by the assignment
-		return a-b;
+		// error on purpose in the code, as requested by t
+		return a+b+b;
 	}
 }
